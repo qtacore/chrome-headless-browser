@@ -1,0 +1,4 @@
+Pillow
+qt4w
+chrome_master
+qtaf
